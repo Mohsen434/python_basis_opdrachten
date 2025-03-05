@@ -16,6 +16,6 @@ Zorg ervoor dat de tuple wordt geprint.
 13.5   
 8009  
 
-
-
+my_tuple = (11,"Oh een tuple", 13.5,8009 )
+print (mytulpe)
 

@@ -12,9 +12,7 @@ Stop onderstaande waarden als `list` in een variabele `my_list`
 Zorg ervoor dat de `my_list` wordt geprint op het scherm.
 
 13  
-"wat een weertje"  
-12.5  
-8
+"wat een weertje" 
 
 
 

@@ -14,6 +14,10 @@ Aan jou de taak om vijf bomen naast elkaar te tekenen.
 TIP: Maak gebruik van de mogelijkheid van python om met teksten een berekening uit te kunnen voeren
 
 ```python
+
+
+
+
 print("    *")
 print("   ***")
 print("  ******")

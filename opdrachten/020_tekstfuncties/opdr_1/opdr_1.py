@@ -1,6 +1,6 @@
 # Opdracht 1
-# Naam student:
-# Groep:
+# Naam student:MOhsen Abaza
+# Groep:Expert it system en device's
 
 # Hier komt je code...
 
@@ -12,8 +12,12 @@ print()
 
 # Gebruik onderstaande variabelen en de print-functie
 # en toon de volgende zin op het scherm: Albert Einstein zei ooit: 'Als je niks fout doet, dan kun je ook niks leren!'
+
+
+f = ("O mamma mia, wat maak je toch heerlijke pizza's") 
+print(f)
+ 
 voornaam = "albert"
-achternaam = "einstein"
+achternaam = "einstein" 
+print (f"{voornaam } {achternaam}:\n zei ooit: 'Als je niks fout doet, dan kun je ook niks leren!".title())
 
-
-print()
