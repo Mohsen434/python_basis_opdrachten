@@ -5,7 +5,7 @@
 # Hier komt je code...
 
 c = 60
-f = 105
+f = 102
 schakelen_tot_C = (f - 32) * 5 / 9
 schakelen_tot_F = (c * 9 / 5) + 32
 

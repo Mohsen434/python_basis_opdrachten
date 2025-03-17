@@ -17,12 +17,12 @@ TIP: Maak gebruik van de mogelijkheid van python om met teksten een berekening u
 
 
 
-
-print("    *")
-print("   ***")
-print("  ******")
-print(" ********")
-print("***********")
+ 
+print("     *")
+print("    ***")
+print("   ******")
+print("  ********")
+print(" ***********")
 print("    ***")
 print("    ***")
 print("    ***")

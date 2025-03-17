@@ -13,4 +13,4 @@ gemiddelde = total/3
 print( "wij hebben drie jongen mannen \njoe:[23]\nbob:[15]\nfred:[22]\n***************\n")
 print(f"De totale waarde van alle leeftijden bij elkaar opgeteld is =\n{[total]}\n ")
  
-print(f"De gemiddelde leeftijd van deze boys is:\n {[gemiddelde]}")
+print(f"De gemiddelde leeftijd van deze boys is:\n {gemiddelde}")

@@ -10,7 +10,7 @@ mylist = [
 ]
 
 # Print de gegevens van persoon 1 (eerste item in de lijst)
-persoon1 = mylist[3]  # Eerste persoon in de lijst
+persoon1 = mylist[1:1]  # Eerste persoon in de lijst
 print(f"Voornaam: {persoon1['voornaam']}, Achternaam: {persoon1['achternaam']}, Ouderdom: {persoon1['ouderdom']}")
 
 
