@@ -1,5 +1,5 @@
 # Opdracht 1 lists
-# Naam student:
+# Naam student:Mohsen abaza
 # Groep:
 # Correcte lijst met dictionaries
 mylist = [
